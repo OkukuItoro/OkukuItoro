@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <a href="https://app.daily.dev/King_Itoro"><img src="https://api.daily.dev/devcards/941cc15ba62346828e07d13deb310a06.png?r=s0h" width="400" alt="Itorobong Okuku's Dev Card"/></a> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/OkukuItoro/OkukuItoro/blob/master/devcard.svg" width="400" alt="Okuku's Dev Card"/></a>
+<a href="https://app.daily.dev/King_Itoro"><img src="https://github.com/OkukuItoro/OkukuItoro/blob/master/devcard.svg" width="400" alt="Itorobong Okuku's Dev Card"/></a>
