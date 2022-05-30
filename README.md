@@ -2,7 +2,7 @@
 
 <h2>I'm Patrick Itorobong Okuku</h2>
 
-<a href="twitter.com/OkukuPatricio">Twitter</a> <a href="www.linkedin.com/in/patrick-itoro-okuku-5b3b56153">Twitter</a>
+<a href="twitter.com/OkukuPatricio">Twitter</a> <a href="www.linkedin.com/in/patrick-itoro-okuku-5b3b56153">LinkedIn</a>
 
 - 🔭 I’m currently working on Web and Mobile apps as a freelancer.
 - 🌱 I’m currently learning React, Nodejs, flutter and web3 (Solidity)
